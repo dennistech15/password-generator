@@ -2,7 +2,7 @@
 
 A password generator wrote in Python that allows you to create randomized passwords!
 You can choose:
-- Password length
+- Password length ✅
 - Include lowercase letters ✅
 - Include uppercase letters ✅
 - Include digits ✅
