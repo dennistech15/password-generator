@@ -1,22 +1,22 @@
 # 🔐 GLORIOUS Password Generator
 
-Un generator de parole scris în Python care îți permite să creezi parole random, sigure și personalizate!  
-Poți alege:
-- Lungimea parolei
-- Dacă să includă litere mici ✅
-- Dacă să includă litere mari ✅
-- Dacă să includă cifre ✅
-- Dacă să includă simboluri ✅
+A password generator wrote in Python that allows you to create randomized passwords!
+You can choose:
+- Password length
+- Include lowercase letters ✅
+- Include uppercase letters ✅
+- Include digits ✅
+- Include symbols ✅
 
 ---
 
-## 🚀 Cum se folosește?
+## 🚀 How do you use it?
 
-### 1️⃣ Instalează Python
+### 1️⃣ Install Python
 https://www.python.org/downloads/
 
-### 2️⃣ Rulează scriptul
+### 2️⃣ Run the script
 
-Deschide un terminal în folderul proiectului și tastează:
+Open a terminal in the project's folder and write:
 ```bash
 python main.py
